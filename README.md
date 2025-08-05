@@ -14,7 +14,7 @@ This fictional Power BI project for the FMCG industry visualizes KPIs such as fo
 - GitHub (Version control and project documentation)
 ## 📈 Insights Enabled
 The dashboard provides actionable insights that help drive strategic and operational decisions:
-- **Cost & Efficiency Discrepancy:** Analysis shows that *Product A, with the lowest volume, has the lowest unit cost.* This insight suggests an opportunity to optimize production processes for other products by applying lessons learned from Product A.
+- **Cost & Efficiency Discrepancy:** Despite higher production volumes, Products B and C exhibit higher unit costs compared to Product A. This contradicts typical economies of scale expectations, where increased volume should reduce unit cost. The insight calls for a deeper investigation into process inefficiencies, material usage, or production complexities affecting cost structures in high-volume products.
 - **Reliable Forecasting:** A low *MAPE of 4.46%* and an *MAE of 12.87 kg* indicate high forecast accuracy. This reliability allows for *better inventory management and production planning*,*minimizing the risks of both stockouts and overstocking*.
 - **Production Targets:** An overall *Target Fulfillment Rate of 108.89%* shows strong performance. This insight prompts a review of production goals, suggesting that *targets could be set more ambitiously* to align with actual capacity.
 - **Operational Optimization:** By monitoring average manufacturing (*5.52 days*) and delivery (*3.53 days*) lead times, the dashboard helps *identify bottlenecks and improve process efficiency*, *ultimately leading to faster customer delivery*.
