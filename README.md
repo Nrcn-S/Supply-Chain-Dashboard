@@ -1,4 +1,5 @@
 # Supply-Chain-Dashboard
+![Dashboard Preview](images/dashboard-preview.png)
 This fictional Power BI project for the FMCG industry visualizes KPIs such as forecast accuracy, sales-profit comparisons, and supply risks across four product groups, delivering data-driven insights to support planning and decision-making in a realistic business context.
 ## 🔍 Key Features
 - Production and Sales Analytics: Analyze key performance indicators (KPIs) like total profit, revenue, and production volume.
